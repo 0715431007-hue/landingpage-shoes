@@ -4,7 +4,11 @@ body {
 }
 
 .header {
+    background-color:rgba(186, 128, 164, 0.456);
+}
 
+.header h2 {
+    font: size 30px;
 }
 
 .hero {
